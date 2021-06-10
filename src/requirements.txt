@@ -1,6 +1,6 @@
 defusedxml==0.4.1
 dj-stripe==0.8.0
-Django==1.10.1
+Django==2.2.24
 django-allauth==0.27.0
 django-braces==1.9.0
 django-model-utils==2.6
